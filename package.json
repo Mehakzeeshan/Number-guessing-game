@@ -1,7 +1,7 @@
 {
-  "name": "mnyz-10number-guessing-game",
-  "version": "1.0.0",
-  "description": "",
+  "name": "mnyz-102number-guessing-game",
+  "version": "1.0.2",
+  "description": "cli number gussing game project",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
